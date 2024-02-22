@@ -139,7 +139,7 @@ export default function About() {
 
           <Box display="flex" justifyContent={{ xs: "center", lg: "left" }}>
             <Link
-              href="./files/MUSTAFA-Abutabl-resume.pdf"
+              href="./files/Mahmoud's Resume.pdf"
               target="_blank"
               download
               color="#ffffff"
